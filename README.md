@@ -42,9 +42,9 @@ Ce projet est co-créer par Guillaume Collin et Louis Francken dans le cadre du 
 
 ### Outils supplémentaires: <a name="key-features"></a>
 
-> Pour faire ce projet, j'ai dû utiliser de diffèrents outils afin de m'aider à organiser le code, l'organisation, l'algorithme,...
+> Pour faire ce projet, nouos avons dû utiliser de diffèrents outils afin de nous aider à organiser le code, l'organisation, l'algorithme,...
 
-- **[Structorizer](https://structorizer.fisch.lu/index.php?include=downloads)**  Cela m'a permis de faire le GNS et donc j'ai pu réaliser mes spécifications rapidement.
+- **[Structorizer](https://structorizer.fisch.lu/index.php?include=downloads)**  Cela nous a permis de faire le GNS et donc j'ai pu réaliser mes spécifications rapidement.
 - **[Github](https://github.com/)** Github est un outil très bien, car j'ai pû coder du code directement sur ce site. Nous pouvons également afficher les mises à jours,...
 - **[Gantt](https://www.teamgantt.com/)** TeamGantt est également un outil très bien, car il a pû m'aider à organiser mon projet.
 - **[Google Docs](https://www.google.com/intl/fr_be/docs/about/)** Google Docs est un outil qui m'a permis de créer mes spécifications facilements.
