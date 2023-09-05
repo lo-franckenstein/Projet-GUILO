@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# PROJET GUILO
+# PROJET RunnerVelocity
 
 
 # 📗 Sommaire
@@ -23,9 +23,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 🎮 GUILO <a name="about-project"></a>
+# 🎮 RunnerVelocity <a name="about-project"></a>
 
-**GUILO** est un jeu...
+**RunnerVelocity** est un jeu...
 
 Ce projet est co-créer par Guillaume Collin et Louis Francken dans le cadre du cours de programmation à l'ITN (Namur), plus précisément en unité d'acquis d'apprentissage 13 (UAA13)
 > ⚠️ - Attention, ce projet fera l'objet d'un travail de fin d'étude (TFE) et sera présenté aux juges de fin d'année.
